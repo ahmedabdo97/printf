@@ -1,1 +1,1 @@
-This is readme for Printf project
+Readme file for printf
